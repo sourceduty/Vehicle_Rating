@@ -115,6 +115,8 @@ The Canadian Leopard 2A4M Military Tank earns a perfect 5-star rating for its ex
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 <br>
 [Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Product Rating](https://github.com/sourceduty/Product_Rating)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
