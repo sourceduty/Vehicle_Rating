@@ -70,7 +70,7 @@ Given the innovative features, impressive performance, and potential for transfo
 
 ![Leopard 2A4M](https://github.com/user-attachments/assets/dcb82b8e-8069-491c-9f1c-7dc3d2ce8cde)
 
-### Canadian Leopard 2A4M Military Tank Review
+#### Canadian Leopard 2A4M Military Tank Review
 
 #### Overview
 The Canadian Leopard 2A4M is an upgraded version of the Leopard 2A4, a main battle tank originally developed by Krauss-Maffei in the 1970s for the West German Army. This model has been specifically adapted for the Canadian Armed Forces with enhancements tailored to modern combat requirements.
@@ -101,7 +101,7 @@ The Canadian Leopard 2A4M is an upgraded version of the Leopard 2A4, a main batt
 - Requires extensive training for optimal use.
 - Potential logistical challenges in remote deployment areas due to its size and weight.
 
-### Rating: ⭐⭐⭐⭐⭐ (5/5)
+#### Rating: ⭐⭐⭐⭐⭐ (5/5)
 The Canadian Leopard 2A4M Military Tank earns a perfect 5-star rating for its exceptional performance, advanced technology, and superior protection capabilities. It stands as a formidable and reliable main battle tank, well-suited to meet the demands of modern warfare and peacekeeping missions alike.
 
 <br>    
